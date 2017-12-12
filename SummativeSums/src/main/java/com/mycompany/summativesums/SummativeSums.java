@@ -25,8 +25,8 @@ public class SummativeSums {
         
         //printing out the arrays into the console!
         System.out.println("#1 Array Sum: " + total);
-        System.out.println("#1 Array Sum: " + total2);
-        System.out.println("#1 Array Sum: " + total3);
+        System.out.println("#2 Array Sum: " + total2);
+        System.out.println("#3 Array Sum: " + total3);
     }
     
     //Method for adding the total arrays
